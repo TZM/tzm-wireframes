@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="template.svg">
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3964">
+      <stop
+         style="stop-color:#e8ae00;stop-opacity:1"
+         offset="0"
+         id="stop3966" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:0;"
+         offset="1"
+         id="stop3968" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3954">
+      <stop
+         style="stop-color:#db008b;stop-opacity:0.00392157;"
+         offset="0"
+         id="stop3956" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:0;"
+         offset="1"
+         id="stop3958" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3954"
+       id="linearGradient3960"
+       x1="-2"
+       y1="34.5"
+       x2="800"
+       y2="34.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3964"
+       id="linearGradient3970"
+       x1="794.44446"
+       y1="34.259258"
+       x2="1.8518225"
+       y2="32.407406"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-16.666667,116.66667)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3964"
+       id="linearGradient3974"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3.703704,1.8518552)"
+       x1="794.44446"
+       y1="34.259258"
+       x2="1.8518225"
+       y2="32.407406" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54"
+     inkscape:cx="176.0692"
+     inkscape:cy="479.91453"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1228"
+     inkscape:window-height="456"
+     inkscape:window-x="37"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="gradiants"
+     style="display:inline">
+    <rect
+       style="fill:url(#linearGradient3974);fill-opacity:1;display:inline"
+       id="rect3962"
+       width="803.70367"
+       height="75.925926"
+       x="-3.7037032"
+       y="-3.1082718e-06" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="462.5"
+       y="20"
+       id="text3709"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3711"
+         x="462.5"
+         y="20" /></text>
+    <rect
+       style="fill:#1a1a1a;fill-rule:evenodd;stroke:#000000;stroke-width:0.82390863px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3701"
+       width="79.176094"
+       height="24.176092"
+       x="383.91827"
+       y="1.093147" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.77384567px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="294.93143"
+       y="20.640028"
+       id="text4481"
+       sodipodi:linespacing="125%"
+       transform="scale(1.3208883,0.75706628)"><tspan
+         sodipodi:role="line"
+         id="tspan4483"
+         x="294.93143"
+         y="20.640028"
+         style="fill:#ffffff">News</tspan></text>
+    <image
+       y="-25.5"
+       x="548"
+       id="image4512"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAZCAIAAAApJD5eAAAAA3NCSVQICAjb4U/gAAAAUUlEQVRY he3YsQ0AQQgDwecl5yT03yI5yXVxJy2eCrypQ1Jmfjt0d1SVpNdLLpmZ//WG2xxM52A6B9M5mM7B dA6mczCdg+kcTOdgunXBse2XPob9CY2IGy2aAAAAAElFTkSuQmCC "
+       height="25"
+       width="80"
+       transform="scale(1,-1)" />
+    <image
+       y="0.5"
+       x="630"
+       id="image4523"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAZCAIAAAApJD5eAAAAA3NCSVQICAjb4U/gAAAAUUlEQVRY he3YsQ0AQQgDwecl5yT03yI5yXVxJy2eCrypQ1Jmfjt0d1SVpNdLLpmZ//WG2xxM52A6B9M5mM7B dA6mczCdg+kcTOdgunXBse2XPob9CY2IGy2aAAAAAElFTkSuQmCC "
+       height="25"
+       width="80" />
+    <image
+       y="0.5"
+       x="712"
+       id="image4534"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAZCAIAAAApJD5eAAAAA3NCSVQICAjb4U/gAAAAUUlEQVRY he3YsQ0AQQgDwecl5yT03yI5yXVxJy2eCrypQ1Jmfjt0d1SVpNdLLpmZ//WG2xxM52A6B9M5mM7B dA6mczCdg+kcTOdgunXBse2XPob9CY2IGy2aAAAAAElFTkSuQmCC "
+       height="25"
+       width="80" />
+    <image
+       y="0.5"
+       x="466"
+       id="image4580"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAZCAIAAAApJD5eAAAAA3NCSVQICAjb4U/gAAAAUUlEQVRY he3YsQ0AQQgDwecl5yT03yI5yXVxJy2eCrypQ1Jmfjt0d1SVpNdLLpmZ//WG2xxM52A6B9M5mM7B dA6mczCdg+kcTOdgunXBse2XPob9CY2IGy2aAAAAAElFTkSuQmCC "
+       height="25"
+       width="80" />
+  </g>
+</svg>
