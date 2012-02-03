@@ -138,48 +138,6 @@
          offset="1"
          style="stop-color:#15a0dd;stop-opacity:0;" />
     </linearGradient>
-    <radialGradient
-       r="11.515739"
-       fy="27.645426"
-       fx="29.496454"
-       cy="27.645426"
-       cx="29.496454"
-       gradientTransform="matrix(1,0,0,0.346491,0,18.06653)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient29455"
-       xlink:href="#linearGradient29433"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="24.143761"
-       x2="27.273300"
-       y1="10.957423"
-       x1="35.003674"
-       gradientTransform="matrix(-0.977228,0,0,0.995878,50.60272,9.115637)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient29443"
-       xlink:href="#linearGradient29418"
-       inkscape:collect="always" />
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.346491,0,18.06653)"
-       r="11.515739"
-       fy="27.645426"
-       fx="29.496454"
-       cy="27.645426"
-       cx="29.496454"
-       id="radialGradient29439"
-       xlink:href="#linearGradient29433"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientTransform="matrix(1.007553,0,0,0.987647,-3.071923,0.274607)"
-       y2="26.257807"
-       x2="39.037319"
-       y1="10.916001"
-       x1="26.011957"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient29429"
-       xlink:href="#linearGradient29418"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient29418">
       <stop
@@ -958,9 +916,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.7"
      inkscape:cx="408.85971"
-     inkscape:cy="308.8189"
+     inkscape:cy="372.31496"
      inkscape:current-layer="layer16"
      inkscape:document-units="px"
      showgrid="false"
@@ -985,7 +943,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="footer"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:url(#linearGradient3841);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="footer"
@@ -1120,7 +1078,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="map"
-     style="display:none">
+     style="display:inline">
     <g
        transform="matrix(0.30007862,0,0,-0.19714161,587.56335,638.98786)"
        inkscape:label="map"
